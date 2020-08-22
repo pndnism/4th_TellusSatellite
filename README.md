@@ -31,20 +31,18 @@ signateコンペ、「The 4th Tellus Satellite Challenge：海岸線の抽出」
 │                         generated with `pip freeze > requirements.txt`</br>
 │</br>
 ├── src                <- Source code for use in this project.</br>
-│   ├── __init__.py    <- Makes src a Python module</br>
-│   │</br>
-│   ├── data           <- Scripts to download or generate data</br>
-│   │   └── make_dataset.py</br>
-│   │</br>
-│   ├── features       <- Scripts to turn raw data into features for modeling</br>
-│   │   └── build_features.py</br>
-│   │</br>
-│   ├── models         <- Scripts to train models and then use trained models to make</br>
-│   │   │                 predictions</br>
-│   │   ├── predict_model.py</br>
-│   │   └── train_model.py</br>
-│   │</br>
-│   └── visualization  <- Scripts to create exploratory and results oriented visualizations</br>
-│       └── visualize.py</br>
-│</br>
-└── tox.ini            <- tox file with settings for running tox; see tox.testrun.org</br>
+    ├── __init__.py    <- Makes src a Python module</br>
+    │</br>
+    ├── data           <- Scripts to download or generate data</br>
+    │   └── make_dataset.py</br>
+    │</br>
+    ├── features       <- Scripts to turn raw data into features for modeling</br>
+    │   └── build_features.py</br>
+    │</br>
+    ├── models         <- Scripts to train models and then use trained models to make</br>
+    │   │                 predictions</br>
+    │   ├── predict_model.py</br>
+    │   └── train_model.py</br>
+    │</br>
+    └── visualization  <- Scripts to create exploratory and results oriented visualizations</br>
+        └── visualize.py</br>
