@@ -5,7 +5,7 @@ signateコンペ、「The 4th Tellus Satellite Challenge：海岸線の抽出」
 インプットデータはgithub上に保持するには容量が大きい場合がほとんどなので、ディレクトリ構成ルールだけ定めて、git管理対象外とする
 
 ## ディレクトリ構成（[このページを参考に](https://www.st-hakky-blog.com/entry/2017/03/24/140738) 変更可能性あり）
-├── LICENSE
+├── LICENSE</br>
 ├── Makefile           <- Makefile with commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
